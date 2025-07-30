@@ -34,7 +34,7 @@ Kullanıcı, anapara, faiz oranı ve vade bilgilerini girerek aylık taksit ve t
 ## 🖼️ Ekran Görüntüleri
 
 ### 🏠 Ana Ekran  
-![Ana Ekran](images/uygulamaekrani.png)
+![Ana Ekran](images/uygulamaekranı.png)
 
 ### 📊 Kredi Türü Seçim Ekranı
 ![Kredi Türü](images/kreditürü.png)
